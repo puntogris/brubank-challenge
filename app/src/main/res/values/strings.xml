@@ -1,0 +1,20 @@
+<resources>
+    <!-- Content strings -->
+    <string name="app_name">Brubank Challenge</string>
+    <string name="copy_bookmark">Bookmark</string>
+    <string name="copy_unbookmark">Unbookmark</string>
+    <string name="copy_cancel">Cancel</string>
+    <string name="copy_overview">OVERVIEW</string>
+    <string name="copy_movies_reminder">Movies Reminder</string>
+    <string name="copy_bookmark_movies">BOOKMARKED MOVIES</string>
+    <string name="copy_recommended_movies">RECOMMENDED MOVIES</string>
+    <string name="copy_general_error">An error occurred</string>
+    <string name="copy_search">Search</string>
+
+    <!-- Content descriptions -->
+    <string name="copy_content_description_background_image">Background image</string>
+    <string name="copy_content_description_navigate_back">Navigate back</string>
+    <string name="copy_content_description_search">Search</string>
+    <string name="copy_content_description_clear_text">Clear text field</string>
+    <string name="copy_content_description_movie_poster">Movie image</string>
+</resources>
